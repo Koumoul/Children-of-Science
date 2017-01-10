@@ -1,0 +1,28 @@
+# Site settings
+title: Children of Science
+header-img: img/galaxy.jpg
+email: bourhis.nicolas.29@gmail.com
+copyright_name: Children of Science
+description: "A blog about Neuroscience, Machine Learning and DIY stuff !"
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: Bourhis_
+github_username:  koumoul
+facebook_username:
+email_username:  bourhis.nicolas.29@gmail.com
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+sass:
+  sass_dir: _sass
+include: ['_pages']
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
