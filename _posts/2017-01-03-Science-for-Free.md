@@ -22,7 +22,7 @@ It was created in 2011 by Alexandra Elbakyan, a computer neuroscientist student,
 
 All you have to do, is to paste the link of any paper you want in the search bar of sci-hub, and download it.
 
-![sci-hub]({{ site.url }}/img/science-for-free-content/sci-hub.gif)
+![sci-hub]({{ site.url }}/img/science-for-free-content/sci-hub.gif?raw=true)
 
 The domain name change regularly because of the publishers who file complaints against the website.
 You can find it at : [sci-hub.cc](ci-hub.cc) , [sic-hub.io](sic-hub.io) , [sci-hub.bz](sci-hub.bz)
@@ -34,13 +34,13 @@ But for this moment, sci-hub is illegal.
 
 Scientific books are expensive, like, VERY expensive.
 
-![just-got-me]({{ site.url }}/img/science-for-free-content/just-got-me.png)
+![just-got-me]({{ site.url }}/img/science-for-free-content/just-got-me.png?raw=true)
 
 One of the best website I know for downloading almost every books you need, about anything, is Library Genesis.
 
 Again it's not rocket science, it's work just like a search engine, here is a gif for you :
 
-![lib-gen]({{ site.url }}/img/science-for-free-content/lib-gen.gif)
+![lib-gen]({{ site.url }}/img/science-for-free-content/lib-gen.gif?raw=true)
 
 You can access this website at http://gen.lib.rus.ec
 
