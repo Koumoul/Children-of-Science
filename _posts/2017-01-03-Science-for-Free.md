@@ -13,7 +13,7 @@ In this post I will show you some tips to get scientific content.
 
 ## Scientific papers for free
 
-![alt text](/img/science-for-free-content/sheldon-paper.gif?raw=True "Paper")
+![](img/science-for-free-content/sheldon-paper.gif?raw=true)
 
 To get a scientific paper, you must use sci-hub.
 Sci-hub is a search engine for academic paper, it contain for now more than 48,000,000.
@@ -22,7 +22,7 @@ It was created in 2011 by Alexandra Elbakyan, a computer neuroscientist student,
 
 All you have to do, is to paste the link of any paper you want in the search bar of sci-hub, and download it.
 
-![alt text](/img/science-for-free-content/sci-hub.gif?raw=True "Paper")
+![](/img/science-for-free-content/sci-hub.gif?raw=true)
 
 The domain name change regularly because of the publishers who file complaints against the website.
 You can find it at : [sci-hub.cc](ci-hub.cc) , [sic-hub.io](sic-hub.io) , [sci-hub.bz](sci-hub.bz)
@@ -34,13 +34,13 @@ But for this moment, sci-hub is illegal.
 
 Scientific books are expensive, like, VERY expensive.
 
-![alt text](/img/science-for-free-content/just-got-me.png?raw=True "Paper")
+![](/img/science-for-free-content/just-got-me.png?raw=true)
 
 One of the best website I know for downloading almost every books you need, about anything, is Library Genesis.
 
 Again it's not rocket science, it's work just like a search engine, here is a gif for you :
 
-![alt text](/img/science-for-free-content/lib-gen.gif?raw=True "Paper")
+![](/img/science-for-free-content/lib-gen.gif?raw=true)
 
 You can access this website at http://gen.lib.rus.ec
 
@@ -59,4 +59,4 @@ taking advantage of their trial account policy. [Here is a video I made to expla
 
 That's it !
 I hope this will help you.
-Getting Academic content is great, but when you want to learn about a subject, 
+Getting Academic content is great, but when you want to learn about a subject,
