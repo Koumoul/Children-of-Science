@@ -4,7 +4,7 @@ header-img: img/galaxy.jpg
 email: bourhis.nicolas.29@gmail.com
 copyright_name: Children of Science
 description: "A blog about Neuroscience, Machine Learning and DIY stuff !"
-baseurl: ""
+baseurl: "https://koumoul.github.io/Children-of-Science.github.io"
 url: "https://koumoul.github.io/Children-of-Science.github.io"
 twitter_username: Bourhis_
 github_username:  koumoul
