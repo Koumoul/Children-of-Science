@@ -13,7 +13,7 @@ In this post I will show you some tips to get scientific content.
 
 ## Scientific papers for free
 
-![sheldon-paper]({{ baseurl }}/img/science-for-free-content/sheldon-paper.gif?raw=true)
+![sheldon-paper]({{ site.url }}/img/science-for-free-content/sheldon-paper.gif?raw=true)
 
 To get a scientific paper, you must use sci-hub.
 Sci-hub is a search engine for academic paper, it contain for now more than 48,000,000.
