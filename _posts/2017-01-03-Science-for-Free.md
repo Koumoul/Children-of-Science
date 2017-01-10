@@ -5,7 +5,6 @@ subtitle:   "But not legally"
 date:       2017-01-10 06:00:00
 author:     "Nicolas Bourhis"
 header-img: "img/science-for-free-content/books.jpg"
-permalink: none
 future: true
 ---
 
@@ -14,7 +13,7 @@ In this post I will show you some tips to get scientific content.
 
 ## Scientific papers for free
 
-![sheldon-paper](/img/science-for-free-content/sheldon-paper.gif)
+![sheldon-paper]({{ site.url }}/img/sheldon-paper.gif)
 
 To get a scientific paper, you must use sci-hub.
 Sci-hub is a search engine for academic paper, it contain for now more than 48,000,000.
