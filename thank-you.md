@@ -1,5 +1,4 @@
 ---
-published: False
 title: "thank you !"
 ---
 # Your mail have been send !
