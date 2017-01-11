@@ -4,7 +4,7 @@ title: "THANK YOU !"
 ---
 <div style="text-align:center" markdown="1">
 
-# Your mail have been send !
+# Your email has been sent !
 
 </div>
 
