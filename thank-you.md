@@ -1,5 +1,5 @@
 ---
-title: "thank you !"
+title: "THANK YOU !"
 ---
 # Your mail have been send !
 
