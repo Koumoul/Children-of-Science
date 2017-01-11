@@ -3,6 +3,11 @@
  * Copyright 2015 Start Bootstrap
  * Licensed under MIT (https://spdx.org/licenses/MIT)
  */
+ .center-image
+ {
+     margin: 0 auto;
+     display: block;
+ }
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
